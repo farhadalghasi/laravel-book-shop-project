@@ -1,0 +1,36 @@
+.container
+{
+    height: 500px;
+}
+.nav
+{
+    height: 100%;
+    font-size: larger;
+    width: 15%;
+    margin-top: 10px;
+    list-style: none;
+    background-color: #181818;
+}
+
+.nav li
+{
+    margin-top: 30px;
+    margin-right: 10px;
+    border-top: 2px solid black;
+    
+}
+
+.nav a
+{
+    color: cornsilk;
+}
+
+.nav button
+{
+    color: cornsilk;   
+    background-color: #181818;
+    width: 100%;
+    font-size: large;
+    border: none;
+    text-align: right;
+}
